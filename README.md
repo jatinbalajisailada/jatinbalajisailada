@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **jatinbalaji99@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jatinbalajisailada/](https://www.linkedin.com/in/jatinbalajisailada/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
