@@ -1,5 +1,5 @@
 <h1 align="center">Hey Dev's</h1>
-<h3 align="center">My interests span software development, machine learning, and core electrical engineering, and I’m actively building projects and exploring hands-on applications in each area. Over the past year, I’ve built multiple projects ranging from a React-based e-commerce application and a note-taking web app to a PID-controlled line-following robot using Arduino. These experiences gave me hands-on exposure to frontend frameworks, embedded programming, and real-world problem solving. Currently seeking internship opportunities where I can apply my skills to build impactful solutions while learning from experienced teams.</h3>
+<h3 align="center">My interests span software development, machine learning, and core electrical engineering, and I’m actively building projects and exploring hands-on applications. Over the past year, I’ve built multiple projects ranging from a React-based e-commerce application and a note-taking web app to a PID-controlled line-following robot using Arduino. These experiences gave me hands-on exposure to frontend frameworks, embedded programming, and real-world problem solving. Currently seeking internship opportunities where I can apply my skills to build impactful solutions while learning from experienced teams.</h3>
 
 - 📫 How to reach me **jatinbalaji99@gmail.com**
 
