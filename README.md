@@ -22,13 +22,13 @@ I am a Electrical Engineering undergraduate student at **National Institute of T
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 <img src="https://img.shields.io/badge/ONNX%20Runtime-Edge%20Inference-005CED?style=for-the-badge" alt="ONNX">
+<img src="https://img.shields.io/badge/TinyML-Embedded%20AI-8A2BE2?style=for-the-badge" alt="TinyML">
 ![Kaggle](https://img.shields.io/badge/Kaggle-008ABC?style=for-the-badge&logo=kaggle&logoColor=white)
 
 #### 🛠️ Low-Level & Embedded Engineering
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=MathWorks&logoColor=white)
 <img src="https://img.shields.io/badge/NI%20Multisim-Circuit%20Simulation-blue?style=for-the-badge" alt="Multisim">
 
 #### 🌐 Full-Stack Engineering
