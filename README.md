@@ -1,13 +1,76 @@
-<h1 align="center">Hey Dev's</h1>
-<h3 align="center">My interests span software development, machine learning, and core electrical engineering, and I’m actively building projects and exploring hands-on applications. Over the past year, I’ve built multiple projects ranging from a React-based e-commerce application and a note-taking web app to a PID-controlled line-following robot using Arduino. These experiences gave me hands-on exposure to frontend frameworks, embedded programming, and real-world problem solving. Currently seeking internship opportunities where I can apply my skills to build impactful solutions while learning from experienced teams.</h3>
+# ⚡ Hey, I'm Jatin Balaji Sailada
 
-- 📫 How to reach me **jatinbalaji99@gmail.com**
+I am a Electrical Engineering undergraduate student at **National Institute of Technology (NIT), Rourkela**. I operate at the intersection of hardware systems, embedded engineering, and custom machine learning frameworks—focusing deeply on low-level execution, edge AI, and mathematical optimization over high-level abstractions.
+
+> *"I am Atomic."*
+
+---
+
+### 🚀 Core Focus & Focus Areas
+
+* **Mathematical ML & Data Systems:** Building machine learning algorithms (Gradient Descent, K-Means, KNN) completely from scratch to master optimization loops and algorithmic performance.
+* **Embedded AI & Automation:** Designing embedded control systems (PID loops on Arduino) and deploying resource-constrained, compressed neural networks.
+* **Full-Stack Development:** Architecting low-latency, highly interactive web applications using Next.js, Framer Motion, and Firebase for high-traffic student operations.
+
+---
+
+### 💻 Technical Toolbelt
+
+#### 🧠 Machine Learning & Edge AI
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://img.shields.io/badge/ONNX%20Runtime-Edge%20Inference-005CED?style=for-the-badge" alt="ONNX">
+![Kaggle](https://img.shields.io/badge/Kaggle-008ABC?style=for-the-badge&logo=kaggle&logoColor=white)
+
+#### 🛠️ Low-Level & Embedded Engineering
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=MathWorks&logoColor=white)
+<img src="https://img.shields.io/badge/NI%20Multisim-Circuit%20Simulation-blue?style=for-the-badge" alt="Multisim">
+
+#### 🌐 Full-Stack Engineering
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### ⚙️ Tools & Architecture
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📂 Featured Technical Projects
+
+#### 👁️ **Edge Vision Dashboard: Real-Time Object Detection**
+* **Stack:** Python, ONNX Runtime, OpenCV, NumPy, COCO Dataset
+* Engineered a lightweight, real-time local edge inference engine running deep learning graphs optimized directly on the CPU.
+* Eliminated heavy dependencies by utilizing **NumPy** for vectorized frame preprocessing (tensor reshaping, normalization) and writing a native **Non-Maximum Suppression (NMS)** parsing routine.
+* Developed a dynamic live Heads-Up Display (HUD) to render bounding boxes, classifications, and real-time millisecond latency telemetry over a raw webcam feed.
+
+#### 📈 **TinyML Sine-Wave Predictor**
+* **Stack:** Pure C++, Python, Embedded Systems Optimization
+* Built a **zero-dependency, from-scratch C++ inference engine** to deploy deep learning models onto severely resource-constrained edge hardware without relying on frameworks like TensorFlow Lite.
+* Swapped out high-level abstractions for raw performance by manually implementing the entire forward pass, dot products, matrix multiplications, and non-linear activation functions ($\text{ReLU}$ and Linear) from scratch.
+* Handled the entire development pipeline from Python-to-C++ serialization to final cross-compilation.
+
+#### 🔤 **Next-Word Text Generator**
+* **Stack:** Python, Deep Learning, Sequence Modeling
+* Built an autoregressive deep learning model from the ground up designed to predict and suggest sequential text completions, mimicking an intelligent autocomplete engine.
+* Curated and trained the network on a custom domain-specific dataset, achieving strong sequential coherence over deep text generation loops (e.g., iteratively resolving long-tail contextual strings like *"mail once the course is over"* from a single seed word).
+
+  
+---
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jatinbalajisailada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatinbalajisailada" height="30" width="40" /></a>
-</p>
+### 🤝 Let's Connect
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+* 💼 **LinkedIn:** [linkedin.com/in/jatinbalajisailada/](https://www.linkedin.com/in/jatinbalajisailada/)
+* 📬 **Email:** [jatinbalaji99@gmail.com](mailto:jatinbalaji99@gmail.com)
