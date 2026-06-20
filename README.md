@@ -23,6 +23,7 @@ I am a Electrical Engineering undergraduate student at **National Institute of T
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 <img src="https://img.shields.io/badge/ONNX%20Runtime-Edge%20Inference-005CED?style=for-the-badge" alt="ONNX">
 <img src="https://img.shields.io/badge/TinyML-Embedded%20AI-8A2BE2?style=for-the-badge" alt="TinyML">
+<img src="https://img.shields.io/badge/LangChain%20LCEL-AI%20Orchestration-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain LCEL">
 ![Kaggle](https://img.shields.io/badge/Kaggle-008ABC?style=for-the-badge&logo=kaggle&logoColor=white)
 
 #### 🛠️ Low-Level & Embedded Engineering
